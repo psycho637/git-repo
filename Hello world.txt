@@ -1,4 +1,6 @@
-println("Hello world!")
-println("Hello Russia!")
-println("Hello")
-println("Hello my dear friends!")
+<<<<<<< HEAD
+println("Hello world!;")
+println("Hello Russia!;")
+println("Hello;")
+println("Hello my dear friends!;")
+
