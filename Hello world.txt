@@ -1,4 +1,0 @@
-println("Hello world!")
-println("Hello Russia!")
-println("Hello USA!")
-println("Hello")
